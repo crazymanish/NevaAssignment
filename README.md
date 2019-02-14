@@ -45,3 +45,16 @@ Currently ApiClientManager can perform:
 - `DELETE` web-service
 
 **Note**: Every request of ApiClientManager take `APIRequest` Type object as input and return `APIResponse` Type object in response.
+
+# ---------------------- Updating ReadMe file (In PROGRESS) -----------------------------
+
+# Requirements
+- iOS 10.0+
+- Xcode 10.1
+- macOS 10.14
+
+# Swift version
+* Swift 4.2
+
+# LICENSE
+* MIT
