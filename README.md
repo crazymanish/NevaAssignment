@@ -6,6 +6,10 @@ Neva Company - iOS Assignment 14-Feb-2019
 
 This is Assignment project given by Neva company, I follow the following steps to finish the assignment.
 # Step by Step Solution
+After follow the below steps, solution looks like below:
+
+![](manish-assignment-solution.gif)
+-------------------
 
 ### Step1: Create new iOS application.
 Created new single page iOS application, named as `ManishAssignment`.
